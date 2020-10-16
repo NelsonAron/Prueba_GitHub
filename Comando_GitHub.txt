@@ -1,0 +1,19 @@
+CLONAR un DIRECTORIO:
+
+Abrir terminal dentro de la respectiva carpeta de los proyectos en GitHub
+
+*- git clone "pegar direccion del repositorio"
+
+*- git status = muestra si se ah agregado algùn archivo.
+
+*- git add <nombre_archivo>..." para incluirlo a lo que se será confirmado)
+
+*- git commit -m "mensaje de comentario" = Control de versiones
+
+*- git diff = muestra las ultimas modificaciones / control de versiones.
+
+*- git . = añade todos los archivos que han sido modificados o agregados.
+
+
+*- git push = envìa los cambios al git
+
